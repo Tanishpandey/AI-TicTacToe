@@ -25,7 +25,7 @@
    
 3. **Run The Game**
      ```bash
-     python game.py
+     python runner.py
     - The game will open in your terminal or command prompt, and you can start playing immediately.
 
 ---
